@@ -1,3 +1,2 @@
 # tellme
-Google Cloud IoT experiments
-Python client
+Working Python client demo
